@@ -1,7 +1,7 @@
 #makefile for hello.c
 
 CC=gcc
-CGLAGS = -g -Wall
+CGLAGS=-g -Wall
 
 all: hello
 
